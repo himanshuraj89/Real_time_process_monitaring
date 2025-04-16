@@ -1,0 +1,14 @@
+.kill-btn {
+    background-color: #FF4C4C;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.kill-btn:hover {
+    background-color: #ff1e1e;
+    color: black;
+}
